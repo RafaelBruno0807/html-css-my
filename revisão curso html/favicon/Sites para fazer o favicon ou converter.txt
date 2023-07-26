@@ -1,0 +1,10 @@
+SITES:
+
+favicon.cc Desenhar o favicon
+favicon.io Converter qualquer arquivo em .io
+
+
+FORMATOS:
+
+100x100
+80x80
